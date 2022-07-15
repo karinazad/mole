@@ -1,0 +1,4 @@
+{
+    "model_class": "SklearnModel",
+    "featurizer_class": "RDKitFeaturizer"
+}

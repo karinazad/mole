@@ -1,0 +1,4 @@
+{
+    "model_class": "DeepChemModel",
+    "featurizer_class": "AttentiveFPFeaturizer"
+}

@@ -1,0 +1,14 @@
+# Adapted from initial draft document https://docs.google.com/presentation/d/1AZ7_jlse4Mz-MU90xBV0oEO_msyGKQo8ogGmF6fWmdA/edit#slide=id.gf5e9561882_0_1
+
+# Production stage the project is in. Affect what checks are required for repository, passing value thresholds and how strongly are enforced.
+stage: beta
+
+# Type of repository content. Affect what checks are required for repository and passing values thresholds.
+content_type: code
+
+# Email of business and technical owners. If not specified inherit from primary project repo?
+business_owner: karina.zadorozhny@themama.ai
+technical_owner: karina.zadorozhny@themama.ai
+
+# Link to primary documentation.
+documentation: https://github.com/the-mama-ai/machi-light/README.md

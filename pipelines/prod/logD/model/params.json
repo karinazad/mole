@@ -1,0 +1,5 @@
+{
+    "mode": "regression",
+    "num_classes": null,
+    "dc_model_class": "AttentiveFPModel"
+}
